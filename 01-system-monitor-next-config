@@ -1,0 +1,12 @@
+# System-monitor-next config
+[org/gnome/shell/extensions/system-monitor]
+icon-display=true
+cpu-display=true
+cpu-style='digit'
+cpu-show-text=true
+memory-display=true
+memory-style='digit'
+memory-show-text=true
+net-display=true
+net-style='digit'
+net-show-text=true
