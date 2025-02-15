@@ -1,2 +1,2 @@
 [org/gnome/shell]
-favorite-apps=['org.gnome.Terminal.desktop', 'org.gnome.Nautilus.desktop', 'org.gnome.gedit.desktop', 'firefox-esr.desktop']
+favorite-apps=['org.gnome.Terminal.desktop', 'org.gnome.Nautilus.desktop', 'org.gnome.gedit.desktop', 'firefox-esr.desktop', 'org.wireshark.Wireshark.desktop']
