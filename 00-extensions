@@ -1,0 +1,3 @@
+# Enable gnome shell extensions
+[org/gnome/shell]
+enabled-extensions=['system-monitor-next@paradoxxx.zero.gmail.com', 'apps-menu@gnome-shell-extensions.gcampax.github.com', 'places-menu@gnome-shell-extensions.gcampax.github.com', 'dash-to-dock@micxgx.gmail.com']
